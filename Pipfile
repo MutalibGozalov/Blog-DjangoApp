@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 django = "==4.1.1"
+django-autoslug = "*"
 
 [dev-packages]
 
