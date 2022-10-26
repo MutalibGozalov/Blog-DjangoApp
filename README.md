@@ -1,2 +1,2 @@
-# Django-Tutorial
-My first Python web app
+# Blog 
+Blog - developed with Python Django
